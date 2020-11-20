@@ -1,0 +1,7 @@
+C:\Users\Daniel Bates\Documents\Kattis\Tarifa\Tarifa\bin\Debug\Tarifa.exe.config
+C:\Users\Daniel Bates\Documents\Kattis\Tarifa\Tarifa\bin\Debug\Tarifa.exe
+C:\Users\Daniel Bates\Documents\Kattis\Tarifa\Tarifa\bin\Debug\Tarifa.pdb
+C:\Users\Daniel Bates\Documents\Kattis\Tarifa\Tarifa\obj\Debug\Tarifa.csprojAssemblyReference.cache
+C:\Users\Daniel Bates\Documents\Kattis\Tarifa\Tarifa\obj\Debug\Tarifa.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Bates\Documents\Kattis\Tarifa\Tarifa\obj\Debug\Tarifa.exe
+C:\Users\Daniel Bates\Documents\Kattis\Tarifa\Tarifa\obj\Debug\Tarifa.pdb

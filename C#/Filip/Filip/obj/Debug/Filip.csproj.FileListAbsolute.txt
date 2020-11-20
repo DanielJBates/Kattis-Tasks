@@ -1,0 +1,7 @@
+C:\Users\Daniel Bates\Documents\Kattis\Filip\Filip\bin\Debug\Filip.exe.config
+C:\Users\Daniel Bates\Documents\Kattis\Filip\Filip\bin\Debug\Filip.exe
+C:\Users\Daniel Bates\Documents\Kattis\Filip\Filip\bin\Debug\Filip.pdb
+C:\Users\Daniel Bates\Documents\Kattis\Filip\Filip\obj\Debug\Filip.csprojAssemblyReference.cache
+C:\Users\Daniel Bates\Documents\Kattis\Filip\Filip\obj\Debug\Filip.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Bates\Documents\Kattis\Filip\Filip\obj\Debug\Filip.exe
+C:\Users\Daniel Bates\Documents\Kattis\Filip\Filip\obj\Debug\Filip.pdb

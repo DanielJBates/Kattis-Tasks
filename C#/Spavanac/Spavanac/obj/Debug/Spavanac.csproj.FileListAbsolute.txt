@@ -1,0 +1,7 @@
+C:\Users\Daniel Bates\Documents\Kattis\Spavanac\Spavanac\bin\Debug\Spavanac.exe.config
+C:\Users\Daniel Bates\Documents\Kattis\Spavanac\Spavanac\bin\Debug\Spavanac.exe
+C:\Users\Daniel Bates\Documents\Kattis\Spavanac\Spavanac\bin\Debug\Spavanac.pdb
+C:\Users\Daniel Bates\Documents\Kattis\Spavanac\Spavanac\obj\Debug\Spavanac.csprojAssemblyReference.cache
+C:\Users\Daniel Bates\Documents\Kattis\Spavanac\Spavanac\obj\Debug\Spavanac.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Bates\Documents\Kattis\Spavanac\Spavanac\obj\Debug\Spavanac.exe
+C:\Users\Daniel Bates\Documents\Kattis\Spavanac\Spavanac\obj\Debug\Spavanac.pdb

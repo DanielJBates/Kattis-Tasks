@@ -1,0 +1,7 @@
+C:\Users\Daniel Bates\Documents\Kattis\Batter Up\Batter Up\bin\Debug\Batter Up.exe.config
+C:\Users\Daniel Bates\Documents\Kattis\Batter Up\Batter Up\bin\Debug\Batter Up.exe
+C:\Users\Daniel Bates\Documents\Kattis\Batter Up\Batter Up\bin\Debug\Batter Up.pdb
+C:\Users\Daniel Bates\Documents\Kattis\Batter Up\Batter Up\obj\Debug\Batter Up.csprojAssemblyReference.cache
+C:\Users\Daniel Bates\Documents\Kattis\Batter Up\Batter Up\obj\Debug\Batter Up.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Bates\Documents\Kattis\Batter Up\Batter Up\obj\Debug\Batter Up.exe
+C:\Users\Daniel Bates\Documents\Kattis\Batter Up\Batter Up\obj\Debug\Batter Up.pdb

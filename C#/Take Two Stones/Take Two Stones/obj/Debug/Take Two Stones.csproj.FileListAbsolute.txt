@@ -1,0 +1,7 @@
+C:\Users\Daniel Bates\Documents\Kattis\Take Two Stones\Take Two Stones\bin\Debug\Take Two Stones.exe.config
+C:\Users\Daniel Bates\Documents\Kattis\Take Two Stones\Take Two Stones\bin\Debug\Take Two Stones.exe
+C:\Users\Daniel Bates\Documents\Kattis\Take Two Stones\Take Two Stones\bin\Debug\Take Two Stones.pdb
+C:\Users\Daniel Bates\Documents\Kattis\Take Two Stones\Take Two Stones\obj\Debug\Take Two Stones.csprojAssemblyReference.cache
+C:\Users\Daniel Bates\Documents\Kattis\Take Two Stones\Take Two Stones\obj\Debug\Take Two Stones.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Bates\Documents\Kattis\Take Two Stones\Take Two Stones\obj\Debug\Take Two Stones.exe
+C:\Users\Daniel Bates\Documents\Kattis\Take Two Stones\Take Two Stones\obj\Debug\Take Two Stones.pdb
