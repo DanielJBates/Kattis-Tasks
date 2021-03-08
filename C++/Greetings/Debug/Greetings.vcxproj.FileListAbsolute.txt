@@ -1,0 +1,2 @@
+C:\Users\DBate\Documents\GitHub\Kattis-Tasks\C++\Greetings\Debug\Greetings.exe
+C:\Users\DBate\Documents\GitHub\Kattis-Tasks\C++\Greetings\Debug\Greetings.pdb
