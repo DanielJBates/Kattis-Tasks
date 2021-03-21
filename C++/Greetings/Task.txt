@@ -1,0 +1,1 @@
+Given a string of the form he…ey of length at most 1000, print the greeting you will respond with, containing twice as many e’s.
